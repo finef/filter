@@ -1,0 +1,13 @@
+{
+    "name": "fine/filter",
+    "description": "Fine Filter Component",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": { "Fine\\Container\\": "src" }
+    }
+}
